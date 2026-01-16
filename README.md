@@ -84,9 +84,3 @@ Build the project for production:
 ```bash
 npm run build
 ```
-The build artifacts will be stored in the `dist/` directory.
-
-## 📄 License
-
-This project is proprietary. All rights reserved. 
-© 2026 Nuclea Teknoloji.
